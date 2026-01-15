@@ -11,3 +11,4 @@ class Movie(db.Model, SerializerMixin):
 
     def __repr__(self):
         return f'<Movie {self.title}>'
+//rftyu
